@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mouse",
+    "price": 15,
+    "imgUrl": "/imgs/Mouse.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Headphone",
+    "price": 140,
+    "imgUrl": "/imgs/Headphone.png"
+  },
+  {
+    "id": 5,
+    "name": "Keyboard",
+    "price": 25,
+    "imgUrl": "/imgs/Keyboard.png"
+  },
+  {
+    "id": 6,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/imgs/car.jpg"
+  }
+]
