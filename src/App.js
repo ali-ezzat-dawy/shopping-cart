@@ -9,8 +9,8 @@ import ShoppingCartProvider from "./Context/ShoppingCartContext";
 
 const App = () => {
   return (
-    <>
-      <Router>
+    
+      <Router  basename="/shopping-cart">
         <ShoppingCartProvider>
           <Navbar />
           <Container className="mb-4">
@@ -22,7 +22,7 @@ const App = () => {
           </Container>
         </ShoppingCartProvider>
       </Router>
-    </>
+
   );
 };
 
